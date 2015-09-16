@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛王菩薩祕密念誦儀軌
+#+DATE: 2015-08-30 20:30:41.272356
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0347
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+金
